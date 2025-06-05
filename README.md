@@ -43,7 +43,7 @@ O projeto utiliza três conjuntos de dados fornecidos:
 ### 3. Modelagem Preditiva
 
 - Utilização de um **modelo de ranking (LightGBM Ranker)** para priorizar ofertas por cliente
-- Avaliação por métricas de ranking (ex: NDCG@5 = 66%)
+- Avaliação por métricas de ranking (v1.0 NDCG@5 = 66%)
 - Geração de recomendações personalizadas por cliente
 
 ---
